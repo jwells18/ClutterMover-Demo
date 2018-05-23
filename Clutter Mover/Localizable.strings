@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  Clutter Mover
+
+  Created by Justin Wells on 5/10/18.
+  Copyright © 2018 SynergyLabs. All rights reserved.
+*/
+
+//Onboarding
+"logIn" = "Log In";
+"showPassword" = "Show Password";
+"forgotPassword" = "Forgot Password?";
+"email" = "Email";
+"enterEmail" = "Enter your email";
+"password" = "Password";
+"enterPassword" = "Enter your password";
+"noInternetConnection" = "No internet connection";
+"resetPassword" = "Reset Password";
+"resetPasswordInstructions" = "Enter your email to send a password reset";
+"emailAddress" = "Email Address";
+"send" = "Send";
+"passwordResetSent" = "Password Reset sent";
+
+//Home
+"jobs" = "Jobs";
+"today" = "Today";
+"yesterday" = "Yesterday";
+"emptyJobs" = "No Jobs";
+"getDirections" = "Get Directions";
+"setJobStatus" = "Set Job Status";
+"cancel" = "Cancel";
+"notStarted" = "Not Started";
+"inProgress" = "In Progress";
+"completed" = "Completed";
+"appleMaps" = "Apple Maps";
+"googleMaps" = "Google Maps";
+
+//Plans
+"smallClosetSize" = "Small Closet Size";
+"walkInClosetSize" = "Walk-In Closet Size";
+"garageSize" = "Garage Size";
+"studioSize" = "Studio Size";
+"apartmentSize" = "Apartment Size";
+"customSize" = "Custom Size";
+
+//Camera
+"photo" = "Photo";
+"library" = "Library";
+"video" = "Video";
+"cameraRoll" = "Camera Roll";
+
+//Job
+"details" = "Details";
+"map" = "Map";
+"inventory" = "Inventory";
+"select" = "Select";
+"stored" = "Stored";
+"delivery" = "Delivery";
+"pickup" = "Pickup";
+"customerName" = "Customer";
+"address" = "Address";
+"type" = "Type";
+"plan" = "Plan";
+"startDate" = "Start Date";
+"phone" = "Phone";
+"notes" = "Notes";
+"profile" = "Profile";
+"emptyItems" = "No Inventory";
+"available" = "Available";
+"requested" = "Requested";
+"returned" = "Returned";
+"inTransitToStorage" = "In Transit to Storage";
+"inTransitToCustomer" = "In Transit to Customer";
+
+//InventoryDetailController
+"item" = "Item";
+"id#" = "ID#";
+"status" = "Status";
+"category" = "Category";
+"description" = "Description";
+"jobId" = "Job ID#";
+"createdAt" = "Created At";
+"updatedAt" = "Updated At";
+"delete" = "Delete";
+"areYouSure" = "Are you Sure?";
+"yesDelete" = "Yes, Delete";
+
+//Create Item
+"newItem" = "New Item";
+"add" = "Add";
+"addADescription" = "Add a description";
+
+//Profile
+"birthday" = "Birthday";
+"team" = "Team";
+"maps" = "Maps";
+"coach" = "Coach";
+"help" = "Help";
+"tags" = "Tags";
+"logOut" = "Log Out";
+"mover" = "Mover";
+"yes" = "Yes";
+"logOut?" = "Log Out?";
+"helpWebsite" = "Help Website";
+"customerService" = "Customer Service";
+"helpURL" = "https://www.clutter.com/help";
+"mapPreference" = "Map Preference";
+"noPreference" = "No Preference";
+"google" = "Google";
+"apple" = "Apple";
+"noMapPreference" = "";
+
+//Toast
+"invalidEmail" = "Invalid email";
+"accountDisabled" = "Account disabled";
+"incorrectPassword" = "Incorrect password";
+"errorTryAgain" = "Error! Try again";
+"welcomeBack" = "Welcome Back!";
+"itemsDeleted" = "Items Deleted";
+"error" = "Error";

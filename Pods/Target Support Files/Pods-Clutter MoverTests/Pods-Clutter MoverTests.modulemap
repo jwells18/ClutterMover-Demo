@@ -1,0 +1,6 @@
+framework module Pods_Clutter_MoverTests {
+  umbrella header "Pods-Clutter MoverTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
